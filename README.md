@@ -22,8 +22,22 @@
 
 ### 🤝 Connect With Me
 
-<p align="left"> <a href="mailto:ashwinjoy012@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/ashwin-joy-17a045227/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/ash00win" target="_blank"> <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+<p align="left">
+  <a href="mailto:ashwinjoy012@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashwin-joy-17a045227/" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ash00win" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
 ---
+
 
 > “The best way to predict the future is to create it.” – *Abraham Lincoln*
 
