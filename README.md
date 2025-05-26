@@ -22,11 +22,9 @@
 
 ### 🤝 Connect With Me
 
+Email : ashwinjoy012@gmail.com
+
 <p align="left">
-  <a href="mailto:ashwinjoy012@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ashwin-joy-17a045227/" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
