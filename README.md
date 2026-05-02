@@ -1,41 +1,50 @@
-<h1 align="center">Hey there 👋, I'm Ashwin</h1>
+<h1 align="center">Hi 👋, I'm Ashwin Joy</h1>
 <p align="center">
-  🚀 Passionate Learner | 💻 Aspiring Developer | 🎯 Always Curious
+  💻 Full Stack Developer (Fresher) | 🚀 Building Real-World Projects | 🎯 Focused on Growth
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science B.Tech graduate From SCET,Kodakara
-- 🌱 Currently exploring **Web Development** and **Python**
-- 💡 I love learning about new technologies, tools, and frameworks
-- 🎯 Always striving to build cool and useful projects
-- 💬 Ask me about **Python**, **Frontend Basics**, or anything tech-related!
+- 🎓 B.Tech in Computer Science – SCET, Kodakara  
+- 💡 Hands-on experience in **Django, Django REST Framework, and React**  
+- 🛠️ Built real-world projects including:
+  - 🔐 Multi-tenant SaaS platform with JWT authentication & role-based access  
+  - 🤖 AI-powered interview simulator with face recognition & emotion detection  
+- 🌱 Currently improving **frontend skills (React)** and **API development**
+- 🎯 Actively looking for **entry-level software developer opportunities**
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🧰 Tech Stack
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </p>
+**Languages:**  
+Python | JavaScript | C++ | Java  
 
----
+**Frontend:**  
+HTML | CSS | React  
 
-### 🤝 Connect With Me
+**Backend:**  
+Django | Django REST Framework  
 
-Email : ashwinjoy012@gmail.com
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ashwin-joy-17a045227/" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ash00win" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
+**Tools & Others:**  
+Git | GitHub | VS Code | Figma  
 
 ---
 
+### 📌 Featured Projects
+- 🚀 Add your best 2–3 projects here with links  
+- Example:  
+  - 🔗 TeamFlow – https://github.com/ash00win/TeamFlow
+  - 🔗 MockAI - https://github.com/ash00win/Mock_interview_AI
 
-> “The best way to predict the future is to create it.” – *Abraham Lincoln*
+---
 
+### 📫 Connect With Me
+- 📧 Email: ashwinjoy012@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ashwin-joy-17a045227/  
+- 🖥️ GitHub: https://github.com/ash00win  
+
+---
+
+> “The best way to predict the future is to create it.” – Abraham Lincoln
