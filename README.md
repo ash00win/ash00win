@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwin Joy</h1>
 <p align="center">
-  💻 Full Stack Developer (Fresher) | 🚀 Building Real-World Projects | 🎯 Focused on Growth
+  💻 Full Stack Developer  | 🚀 Building Real-World Projects | 🎯 Focused on Growth
 </p>
 
 ---
@@ -29,14 +29,6 @@ Django | Django REST Framework
 
 **Tools & Others:**  
 Git | GitHub | VS Code | Figma  
-
----
-
-### 📌 Featured Projects
-- 🚀 Add your best 2–3 projects here with links  
-- Example:  
-  - 🔗 TeamFlow – https://github.com/ash00win/TeamFlow
-  - 🔗 MockAI - https://github.com/ash00win/Mock_interview_AI
 
 ---
 
