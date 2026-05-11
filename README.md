@@ -1,42 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ashwin Joy</h1>
+<h1 align="center">Ashwin Joy</h1>
+
 <p align="center">
-  💻 Full Stack Developer  | 🚀 Building Real-World Projects | 🎯 Focused on Growth
+Full Stack Developer • Python • Django • React
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Tech in Computer Science – SCET, Kodakara  
-- 💡 Hands-on experience in **Django, Django REST Framework, and React**  
-- 🛠️ Built real-world projects including:
-  - 🔐 Multi-tenant SaaS platform with JWT authentication & role-based access  
-  - 🤖 AI-powered interview simulator with face recognition & emotion detection  
-- 🌱 Currently improving **frontend skills (React)** and **API development**
-- 🎯 Actively looking for **entry-level software developer opportunities**
+## About Me
+
+Computer Science graduate with hands-on experience building scalable web applications using Django, Django REST Framework, React, and PostgreSQL. Passionate about writing clean, maintainable code and developing real-world software solutions.
+
+Currently focused on strengthening frontend development skills with React and improving backend architecture and API design.
 
 ---
 
-### 🧰 Tech Stack
+## Technical Skills
 
-**Languages:**  
-Python | JavaScript | C++ | Java  
+### Languages
+Python • JavaScript 
 
-**Frontend:**  
-HTML | CSS | React  
+### Frontend
+React • HTML • CSS • Tailwind CSS
 
-**Backend:**  
-Django | Django REST Framework  
+### Backend
+Django • Django REST Framework
 
-**Tools & Others:**  
-Git | GitHub | VS Code | Figma  
+### Database
+PostgreSQL • MySQL
 
----
-
-### 📫 Connect With Me
-- 📧 Email: ashwinjoy012@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ashwin-joy-17a045227/  
-- 🖥️ GitHub: https://github.com/ash00win  
+### Tools
+Git • GitHub • VS Code • Figma
 
 ---
 
-> “The best way to predict the future is to create it.” – Abraham Lincoln
+## Experience Highlights
+
+- Built multi-tenant SaaS applications with JWT authentication and role-based access control
+- Developed AI-based interview simulation features with face recognition and emotion detection
+- Developed a production-style movie web application using React, DRF, PostgreSQL, Redux Toolkit, and TMDb API
+- Worked with REST APIs, authentication systems, and database-driven applications
+- Experienced in version control, clean project structure, and collaborative development workflows
+
+---
+
+## Contact
+
+- Email: ashwinjoy012@gmail.com
+- LinkedIn: [<PRIVATE_URL>](https://www.linkedin.com/in/iamashwinjoy )
+- GitHub: [<PRIVATE_URL>](https://github.com/ash00win)
